@@ -6,7 +6,7 @@ The goal is to understand how sales behave over time and identify what drives th
 
 ---
 
-📌 What This Project Covers
+## 📌 What This Project Covers
 
 - Cleaned and prepared the sales dataset
 - Created a TotalRevenue column
@@ -23,16 +23,16 @@ Tools used: **Excel (PivotTables, PivotCharts), Pandas, Matplotlib, Seaborn**
 ---
 
 ## 📂 Folder Structure
-sales-insights-analysis/
-│── dashboard/
-│   ├── sales_dashboard.xlsx
-│   └── sales_dashboard_preview.png
-│── data/
-│   └── sales_data.csv
-│── images/
-│── notebooks/
-│   └── sales_analysis.ipynb
-│── README.md
+sales-insights-analysis/  
+│── dashboard/  
+│   ├── sales_dashboard.xlsx  
+│   └── sales_dashboard_preview.png  
+│── data/  
+│   └── sales_data.csv  
+│── images/  
+│── notebooks/  
+│   └── sales_analysis.ipynb  
+│── README.md  
 
 ---
 
