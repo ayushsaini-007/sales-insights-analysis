@@ -1,75 +1,66 @@
-# 🛒 Sales Insights Analysis
+🛒 Sales Insights Analysis
 
 This project is a simple and clear analysis of retail sales data.
 I explored monthly revenue trends, top products, high-performing regions, and customer spending patterns using Excel and Python.
 The goal is to understand how sales behave over time and identify what drives the most revenue.
 
----
-
-## 📌 What This Project Covers
+📌 What This Project Covers
 
 Cleaned and prepared the sales dataset
 Created a TotalRevenue column
-Built a complete Excel Dashboard
-Monthly revenue trend (line chart)
+Built a professional Excel Dashboard
+Monthly revenue trend analysis
 Top 10 products by revenue
-Region-wise revenue performance
+Region-wise performance
 Top 5 customers by revenue
-KPI section added
-Final insights based on the analysis
+KPI section for quick business insights
+Final recommendations based on the analysis
 Tools used: Excel (PivotTables, PivotCharts), Pandas, Matplotlib, Seaborn
 
----
-
-## 📂 Folder Structure
-
+📂 Folder Structure
 sales-insights-analysis/
-│── data/
-│ └── sales_data.csv
-│── notebooks/
-│ └── sales_analysis.ipynb
 │── dashboard/
-│ ├── sales_dashboard.xlsx
-│ └── sales_dashboard_preview.png
+│   ├── sales_dashboard.xlsx
+│   └── sales_dashboard_preview.png
+│── data/
+│   └── sales_data.csv
+│── images/
+│── notebooks/
+│   └── sales_analysis.ipynb
 │── README.md
 
----
+📊 Key Insights
 
-## 📊 Key Insights
+Revenue shows clear month-to-month variation.
+Mobile Cover is the highest revenue-generating product.
+East is the top-performing region.
+A small group of customers contribute a large share of revenue.
+Average Order Value (AOV) is approximately 4,492.34.
 
-Revenue shows clear trends across months.
-Mobile Cover is the top-selling product.
-East region generates the highest revenue.
-A small number of customers contribute the most to total revenue.
-Average Order Value (AOV) is around 4,492.34.
+📈 Dashboard Overview
 
----
+The Excel dashboard includes:
 
-## 📈 Excel Dashboard Overview
+⭐ KPI Summary (Revenue, Quantity, AOV, Best Product, Best Region)
+📈 Monthly Revenue Trend
+🛍️ Top 10 Products
+🌍 Revenue by Region
+👤 Top 5 Customers
 
-The dashboard includes:
-KPI section: Total Revenue, Total Quantity Sold, AOV, Best Product, Best Region
-Monthly Revenue Trend (Line Chart)
-Top 10 Products by Revenue (Bar Chart)
-Revenue by Region (Column Chart)
-Top 5 Customers (Bar Chart)
-Professional dark-blue theme and clean layout
+It uses a clean dark-blue theme with spaced layout for readability.
 
----
+📸 Dashboard Preview
 
-#📸 Dashboard Preview
-
----
-
-## 🚀 How to Run This Project
+🚀 How to Run This Project
 
 Download or clone this repository.
 Open the dashboard folder.
 Open sales_dashboard.xlsx to explore the dashboard.
-Or open the notebooks folder and run sales_analysis.ipynb for Python analysis.
-Ensure sales_data.csv is inside the data folder.
+For Python analysis, run the notebook in the notebooks folder.
+Ensure sales_data.csv is present inside the data folder.
 
-## 🙋‍♂️ Author
+🙋‍♂️ Author
 
 Ayush Saini
-Data Analyst
+Aspiring Data Analyst
+📧 Email: ayushsaini8535@gmail.com
